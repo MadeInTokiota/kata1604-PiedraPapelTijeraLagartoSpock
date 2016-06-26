@@ -1,0 +1,23 @@
+C:\Users\angela.vilar\documents\visual studio 2015\Projects\kata1\RockPaperScissorsLizardSpock_Test\bin\Debug\RockPaperScissorsLizardSpock_Test.dll
+C:\Users\angela.vilar\documents\visual studio 2015\Projects\kata1\RockPaperScissorsLizardSpock_Test\bin\Debug\RockPaperScissorsLizardSpock_Test.pdb
+C:\Users\angela.vilar\documents\visual studio 2015\Projects\kata1\RockPaperScissorsLizardSpock_Test\bin\Debug\kata1.exe
+C:\Users\angela.vilar\documents\visual studio 2015\Projects\kata1\RockPaperScissorsLizardSpock_Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\angela.vilar\documents\visual studio 2015\Projects\kata1\RockPaperScissorsLizardSpock_Test\bin\Debug\kata1.pdb
+C:\Users\angela.vilar\documents\visual studio 2015\Projects\kata1\RockPaperScissorsLizardSpock_Test\obj\Debug\RockPaperScissorsLizardSpock_Test.csprojResolveAssemblyReference.cache
+C:\Users\angela.vilar\documents\visual studio 2015\Projects\kata1\RockPaperScissorsLizardSpock_Test\obj\Debug\RockPaperScissorsLizardSpock_Test.dll
+C:\Users\angela.vilar\documents\visual studio 2015\Projects\kata1\RockPaperScissorsLizardSpock_Test\obj\Debug\RockPaperScissorsLizardSpock_Test.pdb
+C:\Users\angela.vilar\Documents\visual studio 2015\Projects\RockPaperScissorsLizardSpock\RockPaperScissorsLizardSpock_Test\obj\Debug\RockPaperScissorsLizardSpock_Test.csprojResolveAssemblyReference.cache
+C:\Users\angela.vilar\Documents\visual studio 2015\Projects\RockPaperScissorsLizardSpock\RockPaperScissorsLizardSpock_Test\obj\Debug\RockPaperScissorsLizardSpock_Test.dll
+C:\Users\angela.vilar\Documents\visual studio 2015\Projects\RockPaperScissorsLizardSpock\RockPaperScissorsLizardSpock_Test\obj\Debug\RockPaperScissorsLizardSpock_Test.pdb
+C:\Users\angela.vilar\Documents\visual studio 2015\Projects\RockPaperScissorsLizardSpock\RockPaperScissorsLizardSpock_Test\bin\Debug\RockPaperScissorsLizardSpock_Test.dll
+C:\Users\angela.vilar\Documents\visual studio 2015\Projects\RockPaperScissorsLizardSpock\RockPaperScissorsLizardSpock_Test\bin\Debug\RockPaperScissorsLizardSpock_Test.pdb
+C:\Users\angela.vilar\Documents\visual studio 2015\Projects\RockPaperScissorsLizardSpock\RockPaperScissorsLizardSpock_Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\angela.vilar\Documents\Visual Studio 2015\Projects\RockPaperScissorsLizardSpock\RockPaperScissorsLizardSpock_Test\bin\Debug\RockPaperScissorsLizardSpock.exe
+C:\Users\angela.vilar\Documents\Visual Studio 2015\Projects\RockPaperScissorsLizardSpock\RockPaperScissorsLizardSpock_Test\bin\Debug\RockPaperScissorsLizardSpock.pdb
+C:\Users\angel\Desktop\RockPaperScissorsLizardSpock\RockPaperScissorsLizardSpock_Test\bin\Debug\RockPaperScissorsLizardSpock_Test.dll
+C:\Users\angel\Desktop\RockPaperScissorsLizardSpock\RockPaperScissorsLizardSpock_Test\bin\Debug\RockPaperScissorsLizardSpock_Test.pdb
+C:\Users\angel\Desktop\RockPaperScissorsLizardSpock\RockPaperScissorsLizardSpock_Test\bin\Debug\RockPaperScissorsLizardSpock.exe
+C:\Users\angel\Desktop\RockPaperScissorsLizardSpock\RockPaperScissorsLizardSpock_Test\bin\Debug\RockPaperScissorsLizardSpock.pdb
+C:\Users\angel\Desktop\RockPaperScissorsLizardSpock\RockPaperScissorsLizardSpock_Test\obj\Debug\RockPaperScissorsLizardSpock_Test.csprojResolveAssemblyReference.cache
+C:\Users\angel\Desktop\RockPaperScissorsLizardSpock\RockPaperScissorsLizardSpock_Test\obj\Debug\RockPaperScissorsLizardSpock_Test.dll
+C:\Users\angel\Desktop\RockPaperScissorsLizardSpock\RockPaperScissorsLizardSpock_Test\obj\Debug\RockPaperScissorsLizardSpock_Test.pdb

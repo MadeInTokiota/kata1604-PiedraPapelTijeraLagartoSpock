@@ -1,0 +1,15 @@
+C:\Users\angela.vilar\Documents\Visual Studio 2015\Projects\RockPaperScissorsLizardSpock\RockPaperScissorsLizardSpock\bin\Debug\RockPaperScissorsLizardSpock.exe.config
+C:\Users\angela.vilar\Documents\Visual Studio 2015\Projects\RockPaperScissorsLizardSpock\RockPaperScissorsLizardSpock\bin\Debug\RockPaperScissorsLizardSpock.exe
+C:\Users\angela.vilar\Documents\Visual Studio 2015\Projects\RockPaperScissorsLizardSpock\RockPaperScissorsLizardSpock\bin\Debug\RockPaperScissorsLizardSpock.pdb
+C:\Users\angela.vilar\Documents\Visual Studio 2015\Projects\RockPaperScissorsLizardSpock\RockPaperScissorsLizardSpock\obj\Debug\RockPaperScissorsLizardSpock.csprojResolveAssemblyReference.cache
+C:\Users\angela.vilar\Documents\Visual Studio 2015\Projects\RockPaperScissorsLizardSpock\RockPaperScissorsLizardSpock\obj\Debug\RockPaperScissorsLizardSpock.exe
+C:\Users\angela.vilar\Documents\Visual Studio 2015\Projects\RockPaperScissorsLizardSpock\RockPaperScissorsLizardSpock\obj\Debug\RockPaperScissorsLizardSpock.pdb
+C:\Users\angel\Desktop\RockPaperScissorsLizardSpock\RockPaperScissorsLizardSpock\obj\Debug\RockPaperScissorsLizardSpock.csprojResolveAssemblyReference.cache
+C:\Users\angel\Desktop\RockPaperScissorsLizardSpock\RockPaperScissorsLizardSpock\obj\Debug\RockPaperScissorsLizardSpock.exe
+C:\Users\angel\Desktop\RockPaperScissorsLizardSpock\RockPaperScissorsLizardSpock\obj\Debug\RockPaperScissorsLizardSpock.pdb
+C:\Users\angel\Desktop\RockPaperScissorsLizardSpock\RockPaperScissorsLizardSpock\bin\Debug\RockPaperScissorsLizardSpock.exe.config
+C:\Users\angel\Desktop\RockPaperScissorsLizardSpock\RockPaperScissorsLizardSpock\bin\Debug\RockPaperScissorsLizardSpock.exe
+C:\Users\angel\Desktop\RockPaperScissorsLizardSpock\RockPaperScissorsLizardSpock\bin\Debug\RockPaperScissorsLizardSpock.pdb
+C:\Katas\RockPaperScissorsLizardSpock\RockPaperScissorsLizardSpock\bin\Debug\RockPaperScissorsLizardSpock.exe.config
+C:\Katas\RockPaperScissorsLizardSpock\RockPaperScissorsLizardSpock\obj\Debug\RockPaperScissorsLizardSpock.exe
+C:\Katas\RockPaperScissorsLizardSpock\RockPaperScissorsLizardSpock\obj\Debug\RockPaperScissorsLizardSpock.pdb
