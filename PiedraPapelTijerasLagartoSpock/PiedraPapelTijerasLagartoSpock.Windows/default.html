@@ -1,0 +1,45 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>PiedraPapelTijerasLagartoSpock.Windows</title>
+
+    <!-- WinJS references -->
+    <link href="//Microsoft.WinJS.2.0/css/ui-dark.css" rel="stylesheet" />
+    <script src="//Microsoft.WinJS.2.0/js/base.js"></script>
+    <script src="//Microsoft.WinJS.2.0/js/ui.js"></script>
+
+    <!-- PiedraPapelTijerasLagartoSpock.Windows references -->
+    <link href="/css/default.css" rel="stylesheet" />
+    <script src="/js/default.js"></script>
+    <script src="/js/gameUi.js"></script>
+    <script src="/js/gameController.js"></script>
+</head>
+<body>
+    <p>Choose the values and press the 'play' button</p>
+
+    <select id="player1" onchange="changed">
+        <optgroup label="Select an option">
+            <option value="0">Piedra</option>
+            <option value="1">Papel</option>
+            <option value="2">Tijera</option>
+            <option value="3">Lagarto</option>
+            <option value="4">Spock</option>
+        </optgroup>
+    </select>
+
+    <select id="player2">
+        <optgroup label="Select an option">
+            <option value="0">Piedra</option>
+            <option value="1">Papel</option>
+            <option value="2">Tijera</option>
+            <option value="3">Lagarto</option>
+            <option value="4">Spock</option>
+        </optgroup>
+    </select>
+
+    <button id="playButton" onclick="play">Play</button>
+
+    <p id="result"></p>
+</body>
+</html>

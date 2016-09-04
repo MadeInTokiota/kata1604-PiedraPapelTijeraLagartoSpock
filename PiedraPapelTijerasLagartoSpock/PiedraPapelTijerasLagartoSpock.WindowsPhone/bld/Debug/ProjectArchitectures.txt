@@ -1,0 +1,1 @@
+C:\Users\Germán Coines\Source\Repos\kata1604-PiedraPapelTijeraLagartoSpock\PiedraPapelTijerasLagartoSpock\PiedraPapelTijerasLagartoSpock.WindowsPhone\PiedraPapelTijerasLagartoSpock.WindowsPhone.jsproj;neutral

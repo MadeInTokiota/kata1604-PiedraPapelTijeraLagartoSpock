@@ -1,0 +1,49 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>PiedraPapelTijerasLagartoSpock.WindowsPhone</title>
+
+    <!-- WinJS references -->
+    <!-- At runtime, ui-themed.css resolves to ui-themed.light.css or ui-themed.dark.css 
+    based on the user’s theme setting. This is part of the MRT resource loading functionality. -->
+    <link href="/css/ui-themed.css" rel="stylesheet" />
+    <script src="//Microsoft.Phone.WinJS.2.1/js/base.js"></script>
+    <script src="//Microsoft.Phone.WinJS.2.1/js/ui.js"></script>
+
+    <!-- PiedraPapelTijerasLagartoSpock.Phone references -->
+    <link href="/css/default.css" rel="stylesheet" />
+    <script src="/js/default.js"></script>
+    <script src="/js/gameUi.js"></script>
+    <script src="/js/gameController.js"></script>
+</head>
+<body class="phone">
+    
+    <p>Choose the values and press the 'play' button</p>
+    
+    <select id="player1" onchange="changed">
+        <optgroup label="player1options" >
+            <option value="0" >Piedra</option>
+            <option value="1">Papel</option>
+            <option value="2">Tijera</option>
+            <option value="3">Lagarto</option>
+            <option value="4">Spock</option>
+        </optgroup>
+    </select>
+    
+    <select id="player2">
+        <optgroup label="player2options">
+            <option value="0">Piedra</option>
+            <option value="1">Papel</option>
+            <option value="2">Tijera</option>
+            <option value="3">Lagarto</option>
+            <option value="4">Spock</option>
+        </optgroup>
+    </select>
+
+    <button id="playButton">Play</button>
+    
+    <p id="result"></p>
+
+</body>
+</html>

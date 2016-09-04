@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <MSBuildAllProjects>$(MSBuildAllProjects);$(MSBuildThisFileFullPath)</MSBuildAllProjects>
+    <HasSharedItems>true</HasSharedItems>
+    <SharedGUID>d37bc591-ad07-47f2-8ede-f822e9bed1a6</SharedGUID>
+  </PropertyGroup>
+  <ItemGroup>
+    <Content Include="$(MSBuildThisFileDirectory)js\default.js" />
+    <Content Include="$(MSBuildThisFileDirectory)js\gameController.js" />
+    <Content Include="$(MSBuildThisFileDirectory)js\gameController.Spec.js" />
+    <Content Include="$(MSBuildThisFileDirectory)js\gameUi.js" />
+    <Content Include="$(MSBuildThisFileDirectory)js\gameUi.Spec.js" />
+  </ItemGroup>
+</Project>
