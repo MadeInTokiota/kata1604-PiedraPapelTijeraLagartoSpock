@@ -1,0 +1,48 @@
+TDD (Test Driven Development)
+
+
+*************************TEST*********************************
+Características de las pruebas unitarias:
+	Automatizable: no debería requerirse una intervención manual.
+	Completas: deben cubrir la mayor cantidad de código.
+	Repetibles o Reutilizables: no se deben crear pruebas que sólo puedan ser ejecutadas una sola vez.
+	Independientes: la ejecución de una prueba no debe afectar a la ejecución de otra.
+Las pruebas unitarias están conformadas por una estructura triple A, estas son:
+	Arrange (Inicialización): donde se prepara el contexto de la prueba y se inicializan variables y demás.
+	Act (Ejecución): Ejecutas la funcionalidad que se desea probar.
+	Assert (Comprobación): se comprueba que lo que se ejecuto hace lo que se desea.
+
+
+
+********************BIBLIOGRAFIA******************************
+
+https://msdn.microsoft.com/es-es/library/jj573876.aspx
+
+REFACTORIZA : https://msdn.microsoft.com/es-es/library/719exd8s.aspx
+***********************BEST PRACTICES**************************
+
+SRP:
+
+TDD: 
+	Test Driven Development
+YAGNI
+	“You Aren’t Gonna Need It” - Sometimes, as developers, we try to think a lot in the future of the project coding some extra features “just in case we need them” or “we will eventually need them”. Just one word… Wrong! I’ll repeat it this way: You didn’t need it, you don’t need it and in most of the cases… “You Aren’t Gonna Need It”.
+DRY:
+	In software engineering, Don't Repeat Yourself (DRY) or Duplication is Evil (DIE) is a principle of software development
+KISS:
+	KISS is an acronym for the design principle "Keep it simple, Stupid!".
+SOLID:
+	The principles when applied together intends to make it more likely that a programmer will create a system that is easy to maintain and extend over time
+
+******************************** REFACTORIZANDOOOOO*****************************
+
+1. Crear interfaz?¿?¿
+2. Sacar a constantes y enumerados. 
+3.Reunir todos los if en casi uno y unico 
+
+
+La refactorización consiste en la modificación del código fuente sin cambiar su comportamiento, lo que se conoce informalmente por limpiar el código.
+
+Función pura tiene dos características útiles:
+	No tiene efectos secundarios.La función no cambia variables o datos de ningún tipo fuera de la función.
+	Es coherente.Con el mismo conjunto de datos de entrada, siempre devolverá el mismo valor de salida.
